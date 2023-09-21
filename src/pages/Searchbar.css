@@ -1,0 +1,29 @@
+
+.search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  .search-input {
+    flex-grow: 1; 
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+ 
+  .search-dropdown {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+.search-button{
+    color: rgb(117, 114, 114);
+}
+  
+  
+  
